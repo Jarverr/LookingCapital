@@ -1,0 +1,6 @@
+Wszystkie wierzchołki oprócz niżej wymienionych:
+2556,
+2786,
+4757,
+7337,
+9588.

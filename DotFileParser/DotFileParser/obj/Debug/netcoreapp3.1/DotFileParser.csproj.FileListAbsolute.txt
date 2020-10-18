@@ -1,0 +1,9 @@
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\bin\Debug\netcoreapp3.1\DotFileParser.deps.json
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\bin\Debug\netcoreapp3.1\DotFileParser.dll
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\bin\Debug\netcoreapp3.1\DotFileParser.pdb
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\obj\Debug\netcoreapp3.1\DotFileParser.csprojAssemblyReference.cache
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\obj\Debug\netcoreapp3.1\DotFileParser.AssemblyInfoInputs.cache
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\obj\Debug\netcoreapp3.1\DotFileParser.AssemblyInfo.cs
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\obj\Debug\netcoreapp3.1\DotFileParser.csproj.CoreCompileInputs.cache
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\obj\Debug\netcoreapp3.1\DotFileParser.dll
+F:\PULPIR\Grafy\DotFileParser\DotFileParser\obj\Debug\netcoreapp3.1\DotFileParser.pdb
